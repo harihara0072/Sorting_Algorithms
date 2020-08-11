@@ -1,5 +1,5 @@
 import unittest
-from src/test_code import get_max_profit
+from src.test_code import get_max_profit
 
 
 class Test(unittest.TestCase):
