@@ -5,3 +5,6 @@
 
 # Sorting_Algorithms
 Python code for most popular sorting Algorithms
+
+
+# [Insertion Sort](https://github.com/harihara0072/Sorting_Algorithms/blob/master/src/insertion_sort.py)
