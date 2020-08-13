@@ -7,4 +7,10 @@
 Python code for most popular sorting Algorithms
 
 
-# [Insertion Sort](https://github.com/harihara0072/Sorting_Algorithms/blob/master/src/insertion_sort.py)
+## [Insertion Sort](https://github.com/harihara0072/Sorting_Algorithms/blob/master/src/insertion_sort.py)
+
+| Complexity     | Best          | Average  | Worst |
+| -------------  |:-------------:| --------:| -----:|
+| Time           | Ω(n).         | Θ(n^2)   | O(n^2)|
+| Space          | Ω(1)          | Θ(1).    | O(1)  |
+
